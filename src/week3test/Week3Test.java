@@ -18,6 +18,8 @@ public class Week3Test {
         // TODO code application logic here
         System.out.println("gfdsdgsgsdgdssdf");
         System.out.println("gfdgsfsdfds");
+        System.out.println("gfdsdgsgsdgdssdf");
+        System.out.println("gfdgsfsdfds");
     }
     
 }
